@@ -1,0 +1,1 @@
+rootProject.name = "com.sample.ktor-websocket-chatting-server"
